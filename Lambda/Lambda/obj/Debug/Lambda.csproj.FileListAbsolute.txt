@@ -1,6 +1,0 @@
-C:\Users\Дмитрий\source\repos\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
-C:\Users\Дмитрий\source\repos\Lambda\Lambda\bin\Debug\Lambda.exe.config
-C:\Users\Дмитрий\source\repos\Lambda\Lambda\bin\Debug\Lambda.exe
-C:\Users\Дмитрий\source\repos\Lambda\Lambda\bin\Debug\Lambda.pdb
-C:\Users\Дмитрий\source\repos\Lambda\Lambda\obj\Debug\Lambda.exe
-C:\Users\Дмитрий\source\repos\Lambda\Lambda\obj\Debug\Lambda.pdb
